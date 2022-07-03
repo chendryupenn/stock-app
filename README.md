@@ -10,4 +10,4 @@ To start the application, please make sure that the following are installed in t
 3. npm i axios
 4. npm i react-plotlyjs
 
-Run the application from the project directory with the command "npm start". 
+Run the application from the project directory in the terminal with the command "npm start". 
